@@ -7,7 +7,8 @@
 
 ## 企业微信
 - 注册一个企业
-
+- 后台首页：https://work.weixin.qq.com/wework_admin/frame
+- 服务端API地址：https://work.weixin.qq.com/api/doc/90000/90135/90664
 
 ## 公用数据
 AgentId            1000002
