@@ -11,9 +11,9 @@
 - 服务端API地址：https://work.weixin.qq.com/api/doc/90000/90135/90664
 
 ## 公用数据
-AgentId            1000002
-Secret             FJ3g3ufj8Fa27_-t0tQr3IiNFitf7rF8Sv2Ovc5-Png
-corpid(企业ID)      ww40ff430e2f0f74a1
+AgentId:            1000002
+Secret:             FJ3g3ufj8Fa27_-t0tQr3IiNFitf7rF8Sv2Ovc5-Png
+corpid(企业ID):      ww40ff430e2f0f74a1
 
 
 ## 待测业务
@@ -22,7 +22,7 @@ corpid(企业ID)      ww40ff430e2f0f74a1
 
 
 ## API说明
-- 所有的接口需使用HTTPS协议、JSON数据格式、UTF8编码
+- 0) 所有的接口需使用HTTPS协议、JSON数据格式、UTF8编码
 - 1) 请求方式，标明接口调用的HTTP方法，区分HttpGet/HttpPost请求。所有的请求都为https协议。
 - 2) 请求地址，参数中标注大写的单词，表示为需要替换的变量。
 - 3) 请求包体/参数说明，标明请求参数示例及说明，参数说明包括字段含义、取值范围，开发者在设计数据结构时，应参考该定义范围。
